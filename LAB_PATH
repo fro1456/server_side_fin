@@ -1,0 +1,4 @@
+{"id":10,"name":"zxc","coordinates":{"x":15,"y":6.0},"creationDate":"Apr 21, 2021, 9:29:52 AM","age":20,"color":"WHITE","type":"AIR","character":"FICKLE","head":{"size":3.0,"eyesCount":2.0,"toothCount":6.0}}
+{"id":13,"name":"БРЯК","coordinates":{"x":300,"y":20.5},"creationDate":"Mar 1, 2021, 10:00:09 PM","age":30,"color":"RED","type":"FIRE","character":"CHAOTIC","head":{"size":36.3,"eyesCount":20.4,"toothCount":3.5}}
+{"id":14,"name":"asd","coordinates":{"x":1,"y":2.0},"creationDate":"Apr 20, 2021, 3:03:31 PM","age":20,"color":"RED","type":"AIR","character":"WISE","head":{"size":2.0,"eyesCount":1.0,"toothCount":3.0}}
+{"id":13,"name":"БРЯК","coordinates":{"x":300,"y":20.5},"creationDate":"Mar 1, 2021, 10:00:09 PM","age":30,"color":"RED","type":"FIRE","character":"CHAOTIC","head":{"size":36.3,"eyesCount":20.4,"toothCount":3.5}}
